@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<meta charset="utf-8">
+<TITLE> Histoire </TITLE>
+<style>
+	body { background-color: #B05858}
+	body {
+	margin: 0;
+}
+
+#banner1 {
+	display: block;
+	background-color: #791A1A;
+    height:50px ;
+    width: 100%;
+}
+
+#menu {
+	width: 100%;
+	height: 100px;
+	position: relative;
+	background-color: #B65C5C;
+
+}
+
+#menu ul{
+	float: left;
+	left: 50%;
+	position: relative;
+	padding-top: 15px;
+	margin-left: -60px;
+}
+
+#menu ul li {
+	margin-left: 20px;
+     float: left;
+     list-style-type: none;
+     position: relative;
+     left: -50%;
+}
+
+#menu ul li a{
+	text-align: center;
+	padding-top: 10px;
+	display: inline-block;
+	background-color:#F38383;
+	height: 25px;
+	width: 120px;
+	color: black;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: white;
+	background-color: #F38383
+
+}
+
+#banner2 {
+	display: block;
+	background-color: #791A1A;
+    height:50px ;
+    width: 100%;
+}
+
+#contenuprincipal{
+	display: block;
+	width: 90%;
+	margin: auto;
+
+}
+
+</style>
+</HEAD>
+<BODY> 
+	<div id="banner1">
+		</div>
+ <div id="menu">
+ 	<ul>
+ 		<li><a href="Accueil.html">ACCUEIL</a></li>
+ 		<li><a href="Histoire.html">HISTOIRE</a></li>
+ 		<li><a href="Personnages.html">PERSONNAGES</a></li>
+
+ 	</ul>
+  </div>
+  <div id="banner2">
+  	</div>
+  	<p align="center"> <FONT COLOR= "yellow" style="font-size:15px"; FACE="Verdana"> 
+
+  		La série suit les aventures de deux demi-frères nommés Phinéas Flynn et Ferb Fletcher, qui vivent dans la ville fictive de Danville(secteur des 3 états) et veulent occuper leurs vacances d'été2. Leur sœur, Candice, est obnubilée par leurs inventions : elle appelle régulièrement leur mère pour lui montrer les activités des garçons, mais elle n’y arrive jamais3.
+
+Par ailleurs, Phinéas et Ferb ont un ornithorynque, nommé Perry, qui est agent secret. Celui-ci se bat contre le professeur Heinz Doofenshmirtz, qui l'accueille en l'emprisonnant dans un piège puis lui explique son plan maléfique. En effet, ce dernier crée aussi des inventions (dont le nom finit toujours par « -inator »), dans le but de prendre le contrôle du secteur des Trois États.
+
+À la fin de l'épisode, Candice essaye de montrer la construction des garçons à sa mère avec le rituel : « Maman ! Phinéas et Ferb ont construit… » mais les deux parties de l'histoire entrent en interaction et l'invention des enfants finit souvent involontairement cachée, déplacée ou détruite par l'affrontement entre Perry et Doofenshmirtz. Perry rentre ensuite à la maison, souvent par parapente quand Doofenshmirtz crie : « Sois maudit, Perry l'ornithorynque ! » avec un fort accent germanique à la suite de quoi Phineas (en général) s'exclame : « Ah ben te v'la Perry ». 
+ </FONT> </p>
+<HR>
+</HR>
+ 
+
+</BODY>
+  </HTML>
