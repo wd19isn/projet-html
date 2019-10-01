@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<meta charset="utf-8">
+<TITLE> Phineas et Ferb </TITLE>
+<style>
+	body { background-color: #B05858}
+	body {
+	margin: 0;
+}
+
+#banner1 {
+	display: block;
+	background-color: #791A1A;
+    height:50px ;
+    width: 100%;
+}
+
+#menu {
+	width: 100%;
+	height: 100px;
+	position: relative;
+	background-color: #B65C5C;
+
+}
+
+#menu ul{
+	float: left;
+	left: 50%;
+	position: relative;
+	padding-top: 15px;
+	margin-left: -60px;
+}
+
+#menu ul li {
+	margin-left: 20px;
+     float: left;
+     list-style-type: none;
+     position: relative;
+     left: -50%;
+}
+
+#menu ul li a{
+	text-align: center;
+	padding-top: 10px;
+	display: inline-block;
+	background-color:#F38383;
+	height: 25px;
+	width: 120px;
+	color: black;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: white;
+	background-color: #F38383
+
+}
+
+#banner2 {
+	display: block;
+	background-color: #791A1A;
+    height:50px ;
+    width: 100%;
+}
+
+</style>
+</HEAD>
+<BODY> 
+	<div id="banner1">
+		</div>
+ <div id="menu">
+ 	<ul>
+ 		<li><a href="Accueil.html">ACCUEIL</a></li>
+ 		<li><a href="Histoire.html">HISTOIRE</a></li>
+ 		<li><a href="Personnages.html">PERSONNAGES</a></li>
+
+ 	</ul>
+  </div>
+  <div id="banner2">
+  	</div>
+  	<p align="center"> <FONT COLOR= "red" style="font-size:30px"; FACE="optima, sans serif"> Ce site est dedié au meilleur dessin-animé du siécle: Phineas et Ferb  </FONT> </p>
+<HR>
+<FONT COLOR= "blue" style="font-size:30px"; FACE="Lumaniri, fantasy"> </FONT>
+<HR>
+ <FONT style="font-size:25px"; FACE="optima, sans serif"><p align="center"><a href="https://www.youtube.com/watch?v=sXxC_-C0ER0"><IMG SRC="https://i.ytimg.com/sh/sbTCrt-Ndfa2DfR5NJn5fg/market.jpg"></a> </p> </FONT>
+  <p align="center"> <FONT COLOR= "green" style="font-size:10px"; FACE="Times New Roman"> Cliquez pour voir la bande annonce  </FONT> </p>
+
+</BODY>
+  </HTML>
