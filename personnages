@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<meta charset="utf-8">
+<TITLE> Phineas et Ferb </TITLE>
+<style>
+	body { background-color: #B05858}
+	body {
+	margin: 0;
+}
+
+#banner1 {
+	display: block;
+	background-color: #791A1A;
+    height:50px ;
+    width: 100%;
+}
+
+#menu {
+	width: 100%;
+	height: 100px;
+	position: relative;
+	background-color: #B65C5C;
+
+}
+
+#menu ul{
+	float: left;
+	left: 50%;
+	position: relative;
+	padding-top: 15px;
+	margin-left: -60px;
+}
+
+#menu ul li {
+	margin-left: 20px;
+     float: left;
+     list-style-type: none;
+     position: relative;
+     left: -50%;
+}
+
+#menu ul li a{
+	text-align: center;
+	padding-top: 10px;
+	display: inline-block;
+	background-color:#F38383;
+	height: 25px;
+	width: 120px;
+	color: black;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: white;
+	background-color: #F38383
+
+}
+
+#banner2 {
+	display: block;
+	background-color: #791A1A;
+    height:50px ;
+    width: 100%;
+}
+
+</style>
+</HEAD>
+<BODY> 
+	<div id="banner1">
+		</div>
+ <div id="menu">
+ 	<ul>
+ 		<li><a href="Accueil.html">ACCUEIL</a></li>
+ 		<li><a href="Histoire.html">HISTOIRE</a></li>
+ 		<li><a href="Personnages.html">PERSONNAGES</a></li>
+
+ 	</ul>
+  </div>
+  <div id="banner2">
+  	</div>
+  	<p align="center"> <FONT COLOR= "red" style="font-size:30px"; FACE="optima, sans serif"> Ce site est dedié au meilleur dessin-animé du siécle: Phineas et Ferb  </FONT> </p>
+<HR>
+<FONT COLOR= "blue" style="font-size:30px"; FACE="Lumaniri, fantasy"> </FONT>
+<HR>
+ <FONT style="font-size: 40px"; FACE="Comic sans MS"><p align="center"><IMG SRC="https://vignette.wikia.nocookie.net/phineasetferb/images/b/b4/Phin%C3%A9as.jpg/revision/latest/scale-to-width-down/200?cb=20110220140037&path-prefix=fr"> </p> </FONT>
+  <p align="left"> <FONT COLOR= "black" style="font-size: 20px"; FACE="Comic sans MS"> Phinéas Flynn est un garçon dans la famille Flynn-Fletcher. Il est le fils de Linda Flynn, et beau-fils de Lawrence Fletcher. Sa sœur est Candice, et son demi-frère est Ferb. Il est aimé d'Isabella, sa voisine qu'il va épouser dans le futur (un futur cauchemardesque). Il a un lien fort avec Perry, leur ornithorynque de compagnie, et se demande toujours où il est. C'est toujours lui qui dit "Ferb, je sais ce qu'on va faire aujourd'hui". S'ennuyer est la pire chose qu'il puisse avoir.
+
+D'un optimiste incurable, Phinéas cherche constamment le bon côté des choses. Il est ainsi extrêmement intelligent, créatif, et persistant, ce qui lui permet de construire de grandes inventions et d'inventer des activités. Il est compatissant, ce qui a parfois un effet sur ses idées. Son demi-frère, Ferb est également une sorte de meilleur ami pour Phineas Flynn. Il est toujours avec lui.  </FONT> </p>
+
+<FONT style="font-size: 5px"; FACE="Calibri"><p align="center"><IMG SRC="https://vignette.wikia.nocookie.net/phineasetferb/images/4/44/Ferb_%21%21.png/revision/latest/scale-to-width-down/180?cb=20140312082838&path-prefix=fr"> </p> </FONT>
+  <p align="left"> <FONT COLOR= "black" style="font-size:20px"; FACE="Comic sans MS"> Ferb Fletcher est le demi-frère de Phinéas, qu'il assiste dans tous ces projets. Il a 9 ans au début de la série4. Il a les cheveux verts, sa couleur favorite.Ferb serait originaire de Grande-Bretagne, comme le déclare Buford dans l'épisode 49 saison 2 Le détecteur de vérité.Il sait jouer de tous les instruments de musique et il est très doué avec les machines en tout genre. Sauf lorsqu'il chante, Ferb ne parle environ qu’une fois par épisode.Il a presque toujours la même expression neutre sur son visage : ses rares changements d’expression sont froncer les sourcils lorsqu’il est très concentré, esquisser un petit sourire lorsqu'il est content ou qu'il veut séduire. Il est extrêmement cultivé et a une très belle voix d'adolescent.  </FONT> </p>
+
+  <FONT style="font-size: 5px"; FACE="Calibri"><p align="center"><IMG SRC="https://vignette.wikia.nocookie.net/phineasetferb/images/7/78/Image.jpg/revision/latest?cb=20131109111103&path-prefix=fr"> </p> </FONT>
+  <p align="left"> <FONT COLOR= "black" style="font-size:20px"; FACE="Comic sans MS"> Candice Gertrude Flynn est la sœur de Phinéas Flynn et la demi-sœur de Ferb Fletcher.Elle essaie toujours de montrer à sa mère les inventions de ses frères, mais elle n'y arrive jamais, sauf dans l'épisode Rencontre avec un ornithorynque, un futur cauchemardesque, lavage de cerveau et Une plage dans le jardin.Elle est amoureuse de Jérémy et se complique la vie pour lui plaire en toutes circonstances, elle n'a pas eu des relation qu'avec Jérémy. La soeur de Jérémy, Suzie lui mène la vie dure devant son frère mais l'aide à démasquer Phineas et Ferb quand elles se retrouvent seulement toutes les deux.Elle pense que c'est une force mystérieuse qui fait disparaître les invention de Phineas et Ferb comme c'est montrer dans le film voyage dans une autre dimension. il paraît aussi que Candice rêve depuis la mort de son frère phineas tout ce que Candice voit est imaginaire ferb est devenu un Otis c est pour sa il parle pas et ce qui dise que sa mère ne voit jamais les inventions de ses frères tout simplement parce que ces son imagination qui crée les inventions. </FONT> </p>
+
+  <FONT style="font-size: 5px"; FACE="Calibri"><p align="center"><IMG SRC="https://vignette.wikia.nocookie.net/phineasetferb/images/5/5d/Doofenshmirtz_Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20110309145808&path-prefix=fr"> </p> </FONT>
+  <p align="left"> <FONT COLOR= "black" style="font-size:20px"; FACE="Comic sans MS"> Il est l’ennemi de Perry l'ornithorynque (agent P), qu'il maudit à la fin de chaque épisode, sauf quand c’est grâce à Perry que Doofenshmirtz évite le pire. Sa méchanceté est due à une enfance difficile où son père l’obligea d’abord à faire le nain de jardin,  le remplacera par un chien,puiq sa mere l'obligea a s'habiller en fille . Malgré ses plans saugrenus Heinz Doofenshmirtz doit être surveillé, il pourrait devenir un dangereux dictateur. Il se fait appeler docteur même si sa fille Vanessa lui reproche de ne pas être docteur et d’avoir acheté ce titre sur internet.  </FONT> </p>
+
+ <FONT style="font-size: 0px"; FACE="Calibri"><p align="center"><IMG SRC="https://vignette.wikia.nocookie.net/phineasetferb/images/3/39/Agent_P.png/revision/latest/scale-to-width-down/200?cb=20110219185203&path-prefix=fr"> </p> </FONT>
+  <p align="left"> <FONT COLOR= "black" style="font-size:20px"; FACE="Comic sans MS"> Perry est l'animal de compagnie des deux frères. Même sous la forme d'un ornithorynque ordinaire, Perry est aussi un des agents secrets de l'organisation gouvernementale de tout-animal appelée l'O.W.C.A., et est chargé d'arrêter le savant "maléfique" Heinz Doofenshmirtz.Lorsqu'il va arrêter le Pr. Heinz Doofenshmirtz, Perry se fait presque tout le temps capturer puis ensuite s'évade. Bien qu'ils soient radicalement ennnemis, ils prennent plaisir à se haïr et Perry est terriblement malheureux quand le Pr. Doofenschmirtz lui annonce qu'il s'est trouvé un autre ennemi ("Ennemis pour la vie").Phinéas et Ferb ne doivent pas découvrir que Perry est l'agent P, sinon celui-ci devrait les quitter pour toujours.   </FONT> </p>
+
+
+<p align="left"> <FONT COLOR= "black" style="font-size:20px"; FACE="Comic sans MS"> Cependant, beaucoup d'autres personnges sont à découvrir en regardant chaques épisodes...   </FONT> </p>
+
+
+</BODY>
+  </HTML>
